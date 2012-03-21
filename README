@@ -1,1 +1,4 @@
-I'm forking this because I want to be able to put numerical parameters inside strategies, then run the simulator multiple times with each parameter varying within some range. Then I plan to take the output and make some kind of visualization where each axis represents one of those parameters.
+I'm forking this because I want to be able to put numerical parameters inside strategies,
+then run the simulator multiple times with each parameter varying within some range. Then
+I plan to take the output and make some kind of visualization where each axis represents
+one of those parameters.
